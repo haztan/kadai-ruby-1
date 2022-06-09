@@ -3,6 +3,4 @@ namae = "大知"
 
 age = 22
 
-fullname = myouji + namae
-
-puts fullname + "です。" + age.to_s + "歳です。"
+puts myouji + namae + "です。" + age.to_s + "歳です。"
